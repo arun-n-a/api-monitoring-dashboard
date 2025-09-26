@@ -1,0 +1,13 @@
+fastapi[standard]==0.117.1
+PyJWT==2.10.1
+psycopg2-binary==2.9.10
+redis==6.4.0
+passlib[bcrypt]==1.7.4
+alembic==1.16.5
+gunicorn==23.0.0
+# pydantic-settings==2.10.1
+SQLAlchemy==2.0.42
+requests==2.32.5
+asyncpg==0.30.0
+celery==5.5.3
+eventlet==0.40.3
